@@ -1,5 +1,3 @@
-# arduino-lampe-ambiance
-
 # Projet : Lampe d'Ambiance Arduino
 
 Une lampe d'ambiance avec Arduino est un projet électronique classique qui permet de contrôler la couleur et l'intensité d'une source lumineuse à l'aide de capteurs de lumière (phototransistors) et d'une carte Arduino.
